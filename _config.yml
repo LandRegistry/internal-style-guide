@@ -23,3 +23,5 @@ defaults:
       author: "Mr. Hyde"
       category: "project"
 
+source: internal-style-guide
+
