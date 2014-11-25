@@ -3,7 +3,15 @@ internal-style-guide
 
 #Style guide for internal Land Registry systems.
 
-###dependencies:
+This page is hosted by github.  So any changes that to the gh-pages branch will immediately update the page at:
+
+http://www.landregistryconcept.co.uk/internal-style-guide/
+
+##Running locally
+The page can be run locally with a little setup.  The style guide runs on Jekyll, so to run locally that will need
+installation.
+
+##dependencies to run locally:
 The Jekyll gem.
 The gh-pages gem.
 Bundler (to install the gems)
